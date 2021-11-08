@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kerim Can İslamoğlu</h1>
 <h3 align="center">I'm a passionate Software Developer who is currently focused on Fullstack Web Development</h3> - 🔭 I’m currently working on [NotaMarket](https://github.com/KerimCanIslamoglu/NotaMarket) <br/>
-- 🌱 I’m currently learning **.Net Core, Angular, React** <h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning <b>.Net Core, Angular, React</b> <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kerim-can-islamoglu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerim-can-islamoglu" height="30" width="40" />
