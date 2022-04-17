@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerim Can İslamoğlu</h1>
-<h3 align="center">I'm a Software Developer who is currently focused on Fullstack Web Development</h3> - 🔭 I’m currently working on [NotaMarket](https://github.com/KerimCanIslamoglu/NotaMarket) <br/>
+<h3 align="center">I'm a Software Developer who is currently focused on Full Stack Web Development</h3> - 🔭 I’m currently working on [NotaMarket](https://github.com/KerimCanIslamoglu/NotaMarket) <br/>
 - 🌱 I’m currently learning <b>.Net Core, Angular, React</b> <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kerim-can-islamoglu" target="blank">
